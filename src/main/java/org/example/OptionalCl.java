@@ -9,6 +9,7 @@ public class OptionalCl {
 
         // creating a string array
         String[] str = new String[5];
+        String[] str1 = new String[4];
 
         // Setting value for 2nd index
         str[2] = "Geeks Classes are coming soon";

@@ -9,8 +9,10 @@ public class DateTime {
 
         // the current date
         LocalDate date = LocalDate.now();
+        LocalDate date1 = LocalDate.now();
         System.out.println("the current date is "+
                 date);
+        System.out.println("new date is " + date1);
 
 
         // the current time
