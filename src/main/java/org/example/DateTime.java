@@ -11,6 +11,7 @@ public class DateTime {
         LocalDate date = LocalDate.now();
         System.out.println("the current date is "+
                 date);
+        System.out.println("new date is ");
 
 
         // the current time
